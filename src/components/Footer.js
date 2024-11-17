@@ -17,8 +17,8 @@ const Footer = () => {
         <div className="other">
           <div className="contact-info">
             <p className="hours"><span className="icon far fa-clock fa-fw"></span> Hours: DAILY 7AM - 8PM</p>
-            <p className="address"><span className="icon fas fa-map-marker-alt fa-fw"></span> 555 Espresso Lane Mochaville FL 55555</p>
-            <p className="phone"><span className="icon fas fa-phone-alt fa-fw"></span> <a href="tel:5555555555">(555) 555-5555</a></p>
+            <p className="address"><span className="icon fas fa-map-marker-alt fa-fw"></span> Bhavnagar</p>
+            <p className="phone"><span className="icon fas fa-phone-alt fa-fw"></span> <a href="tel:9099909990">9099909990</a></p>
           </div>
           <div className="social-media-links">
             <a href="https://www.facebook.com" target="_blank" aria-label="Facebook" title="Facebook">
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <div className="app-footer">Created by <a href="https://autumnchris.github.io/portfolio" target="_blank">Autumn Bullard</a> &copy; {new Date().getFullYear()}</div>
+      <div className="app-footer">Created by <a href="https://autumnchris.github.io/portfolio" target="_blank">Khushi Sachapara</a> &copy; {new Date().getFullYear()}</div>
     </footer>
   );
 }
